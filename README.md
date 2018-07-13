@@ -61,10 +61,10 @@ const t = net.forward(imgData1)
 
 ## Running the examples
 
-``` bash
+```` bash
 cd examples/faceRecognition
 npm i
 npm start
-```
+````
 
 Browse to http://localhost:3000/.
